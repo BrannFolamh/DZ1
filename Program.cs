@@ -212,7 +212,7 @@ namespace DZ1
 
             if (variant == 'a')
             {
-                // Обычный ввод
+                
                 Console.WriteLine(output);
             }
             else if (variant == 'b')
